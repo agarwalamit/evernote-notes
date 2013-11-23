@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20131123T155721Z" application="Evernote" version="Evernote Mac 5.4.3 (402231)">
+<note><title>Cook requirements</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<ol>
+<li>Chimta</li>
+<li>Deep kadahi</li>
+<li>Masala all</li>
+<li>Black sarso</li>
+<li>Long</li>
+<li>Elaichi</li>
+<li>Dabba</li>
+<li>Jhanjhara</li>
+<li>Roti casserole</li>
+<li>Knife</li>
+<li>Cholni</li>
+<li>Kalchul</li>
+<li>alu. foil<span style="-evernote-last-insertion-point:true;"/></li>
+</ol>
+</en-note>
+]]></content><created>20131123T151148Z</created><updated>20131123T151829Z</updated><note-attributes><source>mobile.android</source><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>study app</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+Application class:<span style="background-color: rgb(249, 249, 249); color: rgb(34, 34, 34); font-family: Roboto, sans-serif; font-size: 14px; line-height: 19px;">There is normally no need to subclass Application. In most situation, static singletons can provide the same functionality in a more modular way. If your singleton needs a global context (for example to register broadcast receivers), the function to retrieve it can be given a </span><code style="background-color: rgb(249, 249, 249); font-size: 13px; color: rgb(0, 102, 0); line-height: 14px;"><a href="http://developer.android.com/reference/android/content/Context.html" style="color: rgb(37, 138, 175); text-decoration: none;">Context</a></code><span style="background-color: rgb(249, 249, 249); color: rgb(34, 34, 34); font-family: Roboto, sans-serif; font-size: 14px; line-height: 19px;"> which internally uses</span><code style="background-color: rgb(249, 249, 249); font-size: 13px; color: rgb(0, 102, 0); line-height: 14px;"><a href="http://developer.android.com/reference/android/content/Context.html#getApplicationContext()" style="color: rgb(37, 138, 175); text-decoration: none;">Context.getApplicationContext()</a></code><span style="background-color: rgb(249, 249, 249); color: rgb(34, 34, 34); font-family: Roboto, sans-serif; font-size: 14px; line-height: 19px;"> when first constructing the singleton.</span>
+<div style="color: rgb(34, 34, 34); font-family: Roboto, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">
+<p/>
+</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">Fragments: lifecycle,</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);"><br/></div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">PENDING TASKS:</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">P2:</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">understand memory leak ref:<span style="color: rgb(211, 232, 148); font-family: Monaco; font-size: 11px;">AppStartup.</span><span style="color: rgb(230, 201, 166); font-family: Monaco; font-size: 11px;">performInitTasks();<span style="-evernote-last-insertion-point:true;"/></span></div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">why to call super methods in e.g onCreate()</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">use of bundles parameter</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);"><br/></div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">P1:</div>
+<div style="color: rgb(34, 34, 34); font-size: 14px; line-height: 19px; background-color: rgb(249, 249, 249);">Handlers</div>
+</en-note>
+]]></content><created>20131123T111126Z</created><updated>20131123T131931Z</updated><note-attributes><latitude>12.91845677699555</latitude><longitude>77.63290812970347</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>METRIC</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+define metrics for ...<span style="-evernote-last-insertion-point:true;"/>
+</en-note>
+]]></content><created>20131123T115028Z</created><updated>20131123T115045Z</updated><note-attributes><latitude>12.91845677699555</latitude><longitude>77.63290812970347</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Flipkart timeline:</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+May: Prototyping
+<div>June: </div>
+<div>8th July - 2nd Aug: Bootcamp</div>
+<div>Changes to Wrapper App: Adding javascript, Loading dialog changes ,if current page is homepage then back button exits the app but not to the pref page(when user comes to homepage by fk logo click</div>
+<div>Custom Widgets: <span style="font-family: Monaco; font-size: 11px;">CategoryStoreThreeItemWidget , </span><span style="font-family: Monaco; font-size: 11px;">CategoryStoreTwoCardWidget</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">Add to cart button changeson prod page</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">Adding Custom effects to Buttons</span></div>
+<div><font face="Monaco"><span style="font-size: 11px;">Share feature:put proper vertical name in text,url shortening(API)</span></font></div>
+<div>Disk Lru Cache<br/></div>
+<div>Home Screen Widget</div>
+<div>Font changes in app:using <span style="font-family: Monaco; font-size: 11px;">CustomRobotoCondensedTextView and </span><span style="font-family: Monaco; font-size: 11px;">CustomRobotoLightTextView</span></div>
+<div>campaign manager</div>
+<div>Specs and Summary card layout</div>
+<div>PPMSF pin changes:show only those sellers who support the given pin code delivery</div>
+<div> GCM Notfication:</div>
+<div><br/></div>
+<div>changes for interim release:duplicate request for sending referral,replace UUID with android as visitor id,new action(openUrlExternal)to open a link outside the app.</div>
+<div><br/></div>
+<div><span style="-evernote-last-insertion-point:true;"/>Recommendations :      </div>
+<div><br/></div>
+<div><br/></div>
+</en-note>
+]]></content><created>20131123T070246Z</created><updated>20131123T105159Z</updated><note-attributes><latitude>12.91856626776325</latitude><longitude>77.63303199411244</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>todo</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<span style="font-family: Helvetica; font-size: 13px;">fb login changes</span><br/>
+<div style="font-family: Helvetica; font-size: 13px;">
+<div>merge prod with interim json release</div>
+</div>
+<span style="font-family: Helvetica; font-size: 13px;">gcm batch size of 1000</span>
+<div><span style="font-family: Helvetica; font-size: 13px;">recommendations<span style="-evernote-last-insertion-point:true;"/></span></div>
+</en-note>
+]]></content><created>20131123T100912Z</created><updated>20131123T105131Z</updated><note-attributes><latitude>12.9184617018948</latitude><longitude>77.63291326288387</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>todo later</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+unit testin video: <a href="https://mail.google.com/mail/u/0/#apps/unit+testing/14266b3e4fc4c0e2"><span style="-evernote-last-insertion-point:true;"/>https://mail.google.com/mail/u/0/#apps/unit+testing/14266b3e4fc4c0e2</a>
+</en-note>
+]]></content><created>20131122T164458Z</created><updated>20131123T100910Z</updated><note-attributes><latitude>12.92866198171224</latitude><longitude>77.63314555684578</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>oncall</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><span style="-evernote-last-insertion-point:true;"/><br/>
+install adium</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">
+<div>Bug Creation + RCA<br/>
+MissionControl on Outage [ Order/User Impact , Get Order Impact ]<br/>
+Prabhangshu for Order Impact<br/>
+<br/>
+Akash : 8197584528<br/>
+<br/>
+<br/>
+PHP Errors : tail -f /var/log/nginx/website_error.log<br/>
+In Rotation Check : sudo fk-website-admin status<br/>
+MySQL UI : <a href="https://www.google.com/url?q=https%3A%2F%2Fw3-db05.nm.flipkart.com%2Fcgi-bin%2Fpl.cgi&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE40vCHR6hhjZPSJl6VEgENMDCJhw" target="_blank">https://w3-db05.nm.flipkart.com/cgi-bin/pl.cgi</a><br/>
+NGNIX Erros : <a href="http://www.google.com/url?q=http%3A%2F%2Fw3-web33.nm.flipkart.com%3A25004%2Ftail.php%3Ff%3Dnginx-error%26n%3D100&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGzXVgxEcJ3v62Bx-NaP6X_CkX85A" target="_blank">http://w3-web33.nm.flipkart.com:25004/tail.php?f=nginx-error&amp;n=100</a> <br/>
+Nagios Portal : <a href="https://www.google.com/url?q=https%3A%2F%2Fauto-mnode1.nm.flipkart.com%2Fnagios3%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGh_F9t3xDlrxBydhGBvySFHld7sA" target="_blank">https://auto-mnode1.nm.flipkart.com/nagios3/</a></div>
+<div>keep this links at some good place</div>
+<div>i created this when i was on call</div>
+</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">oncall doc: <a href="https://docs.google.com/a/flipkart.com/document/d/1RHHq_fRBBgQsW5O3iTMWaP5-a35CUXHkdoBka9-lZD4/edit#heading=h.pvjmvgh140yj">https://docs.google.com/a/flipkart.com/document/d/1RHHq_fRBBgQsW5O3iTMWaP5-a35CUXHkdoBka9-lZD4/edit#heading=h.pvjmvgh140yj</a></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">user service : core</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">images not found : DOCTYPE</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">500 var/log/flipkart/w3/website/http500.log</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">502: var/log/nginex/websiteerror.log---php fatal error</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">service proxy down:core</div>
+<span style="font-family: Noteworthy-Light; font-size: 15px;">bring back in rotation: </span><span style="background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px;">sudo fk-website-admin bir</span>
+</en-note>
+]]></content><created>20131123T080437Z</created><updated>20131123T080437Z</updated><note-attributes><latitude>12.9185452709627</latitude><longitude>77.63302791433141</longitude><altitude>894.3341674804688</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Goals</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div>APP GOALS:</div>
+<div><br/></div>
+<div>TECH GOALS:</div>
+<div><br/></div>
+<div>understand the app fully: App Design ,java coding concepts(inheritance,interfaces,use of static variables,etc) , properly understand inheritance used here</div>
+<div>     Libraries used: <span style="font-family: Monaco; font-size: 11px;">ActionBarSherlock,Disk lru:jake wharton,volley,</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Api call:data handlers</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Logging</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Login</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Data prefetching</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Lazy Loading</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Role of Config</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   break app into modules and their interactions with each </span><font face="Monaco"><span style="font-size: 11px;">other <span style="-evernote-last-insertion-point:true;"/></span></font></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Webview</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Working of Fragments</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   App init tasks</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   widgetised vs normal view rendering</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   omniture</span></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   Custom views</span></div>
+<div><br/></div>
+<div><span style="font-family: Monaco; font-size: 11px;">   </span></div>
+<div>suggest changes:</div>
+<div>optimise app: UI , network calls , memory leaks , garbage collections , ANR issue,</div>
+<div>improve:</div>
+<div>reduce code size:</div>
+<div>use already available libraries for as many things as possible: will solve compatibility issues,</div>
+<div><br/></div>
+<div>increase productivity:</div>
+<div>improve app performance:</div>
+<div>always update question branch on git:</div>
+<div>maintain timeline:</div>
+<div>understand android better:</div>
+<div>suggest to build some open source libraries :</div>
+<div><br/></div>
+<div>JAVA GOALS:</div>
+<div>use best java practices in whole code:</div>
+<div>understand java better:avoid finalizers , understand OOP better,  </div>
+<div>understand Thread safety</div>
+<div><br/></div>
+<div>BUSINESS GOALS:</div>
+<div><br/></div>
+<div>continuously evaluate app performance in market:</div>
+</en-note>
+]]></content><created>20131123T074752Z</created><updated>20131123T075942Z</updated><note-attributes><latitude>12.91847050668519</latitude><longitude>77.63292395491492</longitude><altitude>900</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Android todo</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div><br/>
+fb login changes:using the custom button provided by fb sdk to login<br/>
+merge prod with interim json release<br/>
+Reco ui
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+popular adb shell commands synchronised jni using lint use view holder in listview making async call in one activity and going to the next , what happens when the result comes back : http://stackoverflow.com/questions/12117031/what-happens-to-an-asynctask-when-the-launching-activity-is-stopped-destroyed-wh , http://stackoverflow.com/questions/2726494/what-happens-on-activity-finish-with-asynctask-still-running-in-background?lq=1
+<div><br/></div>
+listview:create a list view normally….reuse not-null views(convert view)…now use view holder(see performance change)</div>
+<div><br/></div>
+<div><br/></div>
+<div><span style="-evernote-last-insertion-point:true;"/><br/></div>
+<div><br/></div>
+<div><br/></div>
+</en-note>
+]]></content><created>20131111T205209Z</created><updated>20131123T074809Z</updated><note-attributes><latitude>12.9287</latitude><longitude>77.6332</longitude><altitude>0</altitude><source>mobile.android</source><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>java</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div>map x = new hashmap/map  whats the diff<br/></div>
+<div><br/></div>
+<div><br/></div>
+<div>call a fn:  abc(Type x);</div>
+<div>void abc(Type y){</div>
+<div>}</div>
+<div><br/></div>
+<div>now what are the possible types for y</div>
+<div><br/></div>
+<div><br/></div>
+<div>final class ?? what is this<span style="-evernote-last-insertion-point:true;"/></div>
+</en-note>
+]]></content><created>20131022T191508Z</created><updated>20131122T195802Z</updated><note-attributes><latitude>12.9288</latitude><longitude>77.6332</longitude><altitude>0</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Dhall</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><div>Pendrive <br/></div></en-note>]]></content><created>20131024T062409Z</created><updated>20131119T171435Z</updated><note-attributes><latitude>12.9183</latitude><longitude>77.633</longitude><altitude>0</altitude><source>mobile.android</source><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Quick list</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><ol><li><u>I</u> Rto office </li><li> wallet </li><li>Computer table </li><li>Shelf cover </li><li> head phones </li><li>Clothes </li><li>Hanger</li></ol></en-note>]]></content><created>20131029T171408Z</created><updated>20131117T144300Z</updated><note-attributes><latitude>12.9183</latitude><longitude>77.633</longitude><altitude>0</altitude><source>mobile.android</source><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>expenses</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><div> raman 700+80 </div></en-note>]]></content><created>20131108T185713Z</created><updated>20131116T194740Z</updated><note-attributes><latitude>12.9182</latitude><longitude>77.633</longitude><altitude>0</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Nagraj</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+1000+ <span style="-evernote-last-insertion-point:true;"/>Clothing
+</en-note>
+]]></content><created>20131023T054351Z</created><updated>20131023T054425Z</updated><note-attributes><latitude>12.92858953</latitude><longitude>77.63319331374997</longitude><altitude>895.2857055664062</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>Bash</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><div>Bash <br/><a href="http://www.quora.com/Bash-shell/What-are-some-useful-Bash-tricks/answer/Baptiste-Fontaine">http://www.quora.com/Bash-shell/What-are-some-useful-Bash-tricks/answer/Baptiste-Fontaine</a> <br/> </div></en-note>]]></content><created>20131022T191903Z</created><updated>20131023T041026Z</updated><note-attributes><latitude>12.9183</latitude><longitude>77.633</longitude><altitude>0</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>notification</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><span style="-evernote-last-insertion-point:true;"/>api key AIzaSyDAPldKX2Uo1B6TQm8shQBcxxta1rWoa_4</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">reg id APA91bHmHQ8xHUqBKOqzRfbR8rZtWYD2ytBSjzWKBUNnSMRbrd-TJsY--mMBR7UHipahN1hU1wqCBb22YfDfDT-cyp_wowgNsYNfJogeuzuNmrhM89BmkejCUENYvqrczK4_eusyOqtI5gsPQxISfRgbvJmiayOj6A</div>
+<div><br/></div>
+</en-note>
+]]></content><created>20131022T191603Z</created><updated>20131022T191614Z</updated><note-attributes><latitude>12.9185453065084</latitude><longitude>77.63302483031812</longitude><altitude>894.7874145507812</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+<note><title>oncall</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><span style="-evernote-last-insertion-point:true;"/><br/>
+install adium</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">
+<div>Bug Creation + RCA<br/>
+MissionControl on Outage [ Order/User Impact , Get Order Impact ]<br/>
+Prabhangshu for Order Impact<br/>
+<br/>
+Akash : 8197584528<br/>
+<br/>
+<br/>
+PHP Errors : tail -f /var/log/nginx/website_error.log<br/>
+In Rotation Check : sudo fk-website-admin status<br/>
+MySQL UI : <a href="https://www.google.com/url?q=https%3A%2F%2Fw3-db05.nm.flipkart.com%2Fcgi-bin%2Fpl.cgi&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE40vCHR6hhjZPSJl6VEgENMDCJhw" target="_blank">https://w3-db05.nm.flipkart.com/cgi-bin/pl.cgi</a><br/>
+NGNIX Erros : <a href="http://www.google.com/url?q=http%3A%2F%2Fw3-web33.nm.flipkart.com%3A25004%2Ftail.php%3Ff%3Dnginx-error%26n%3D100&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGzXVgxEcJ3v62Bx-NaP6X_CkX85A" target="_blank">http://w3-web33.nm.flipkart.com:25004/tail.php?f=nginx-error&amp;n=100</a> <br/>
+Nagios Portal : <a href="https://www.google.com/url?q=https%3A%2F%2Fauto-mnode1.nm.flipkart.com%2Fnagios3%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGh_F9t3xDlrxBydhGBvySFHld7sA" target="_blank">https://auto-mnode1.nm.flipkart.com/nagios3/</a></div>
+<div>keep this links at some good place</div>
+<div>i created this when i was on call</div>
+</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">oncall doc: <a href="https://docs.google.com/a/flipkart.com/document/d/1RHHq_fRBBgQsW5O3iTMWaP5-a35CUXHkdoBka9-lZD4/edit#heading=h.pvjmvgh140yj">https://docs.google.com/a/flipkart.com/document/d/1RHHq_fRBBgQsW5O3iTMWaP5-a35CUXHkdoBka9-lZD4/edit#heading=h.pvjmvgh140yj</a></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">user service : core</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">images not found : DOCTYPE</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">500 var/log/flipkart/w3/website/http500.log</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">502: var/log/nginex/websiteerror.log---php fatal error</div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;"><br/></div>
+<div style="font-family: Noteworthy-Light; font-size: 15px;">service proxy down:core</div>
+<span style="font-family: Noteworthy-Light; font-size: 15px;">bring back in rotation: </span><span style="background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px;">sudo fk-website-admin bir</span>
+</en-note>
+]]></content><created>20131022T191529Z</created><updated>20131022T191551Z</updated><note-attributes><latitude>12.9185452709627</latitude><longitude>77.63302791433141</longitude><altitude>894.3341674804688</altitude><author>amit kumar agarwal</author><reminder-order>0</reminder-order></note-attributes></note>
+</en-export>
